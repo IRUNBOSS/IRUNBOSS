@@ -1,4 +1,3 @@
-![MasterHead](https://r2j4y6x9.map2.ssl.hwcdn.net/wp-content/uploads/2017/03/Image-1-7.png)
 <h1 align="center">Hi 👋, I'm Nuri Onacak</h1>
 <h3 align="center">A passionate game developer from Türkiye</h3>
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHhkYTN5cGlpMHVzNnE5NTBwNTBjZGI5NzQ2cGhzdHc5cjhld3ppaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif">
