@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [Funverse Games](https://www.funversegames.com/)
 
-- 🌱 I’m currently learning **Unreal Engine C++**
+- 🌱 I’m currently learning **Unreal Engine 5 C++**
 
 - 📫 How to reach me **nuri.onacak@hotmail.com**
 
