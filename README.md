@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=irunboss&label=Profile%20views&color=0e75b6&style=flat" alt="irunboss" /> </p>
 
-- 🔭 I’m currently working on [Digital Preschool](https://www.digitalpreschools.com/)
+- 🔭 I’m currently working on [Funverse Games](https://www.funversegames.com/)
 
-- 🌱 I’m currently learning **Unreal Engine**
+- 🌱 I’m currently learning **Unreal Engine C++**
 
 - 📫 How to reach me **nuri.onacak@hotmail.com**
 
