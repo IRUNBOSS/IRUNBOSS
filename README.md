@@ -27,6 +27,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=irunboss&show_icons=true&theme=dark&locale=en" alt="irunboss" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=irunboss&theme=dark" alt="irunboss" /></p>
+
 
 ![gitartwork](gitartwork.svg)
