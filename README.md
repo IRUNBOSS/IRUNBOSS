@@ -25,9 +25,12 @@
 
 <h3 align="left">📊 GitHub Stats:</h3>
 
-[](https://github-readme-stats.vercel.app/api?username=irunboss&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=irunboss&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=irunboss&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=irunboss&show_icons=true&theme=dark&locale=en&layout=compact" alt="irunboss" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=irunboss&show_icons=true&theme=dark&locale=en" alt="irunboss" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=irunboss&theme=dark" alt="irunboss" /></p>
+
 
 
 
