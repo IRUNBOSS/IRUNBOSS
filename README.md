@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=irunboss&label=Profile%20views&color=0e75b6&style=flat" alt="irunboss" /> </p>
 
-- 🔭 I’m currently working on [Funverse Games](https://www.funversegames.com/)
+- 🔭 I’m currently working on [Ignus Nex Entertainment & Resemblance Interactive]
 
 - 🌱 I’m currently learning **Unreal Engine 5 C++**
 
